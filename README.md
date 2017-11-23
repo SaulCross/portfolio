@@ -1,4 +1,4 @@
-# portfolio
+# web dev
 Accordion with dynamic JSON content:
 
 * Stylisation developed to a strict guideline
