@@ -9,3 +9,8 @@ Accordion with dynamic JSON content:
 View online: http://saulcross.com/json.php
 
 View online: http://saulcross.com/json-additional-functionality.php
+
+
+
+
+Due to equipment available, the development has not been fully tested on tablets or apple O/S. However, to view wireframe templates that are tested: http://saulcross.com/  
