@@ -1,4 +1,4 @@
-# web dev
+# Web Dev
 Accordion with dynamic JSON content:
 
 * Stylisation developed to a strict guideline
